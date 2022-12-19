@@ -6,7 +6,7 @@ Proyecto que tiene como finalidad poner en práctica conocimiento de procesamien
 2. Un segundo bloque donde entreno una red neuronal convolucional (CNN) con el dataset MNIST para poder predecir los números iniciales del sudoku extraídos del apartado anterior. He utilizado el framework keras y la librería de visualización visualkeras.
 3. Por último, me he informado de la metodología de resolución de problemas denominada Backtracking y he implementado el algoritmo que resuelve el sudoku en sí. Esta técnica consiste en «ir probando» combinaciones de valores y solo eliminar valores añadidos si se comprueba que están mal colocados. Las visualizaciones de este último apartado se realizaron con la librería seaborn.
 
-He realizado una [presentación en Genially] (https://view.genial.ly/620612faf06c4000110145a2/presentation-resolvedor-de-sudoku) para hacer más visuales los resultados.
+He realizado una [presentación en Genially](https://view.genial.ly/620612faf06c4000110145a2/presentation-resolvedor-de-sudoku) para hacer más visuales los resultados.
 
 Mejoras futuras:
 
